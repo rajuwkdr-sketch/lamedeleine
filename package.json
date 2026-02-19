@@ -1,0 +1,17 @@
+{
+  "name": "la Madeline locations",
+  "version": "1.0.0",
+  "description": "la Madeline locations",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.13.5",
+    "csv-parser": "^3.2.0",
+    "csv-writer": "^1.6.0"
+  }
+}
